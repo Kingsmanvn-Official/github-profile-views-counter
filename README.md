@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 12:00 AM UTC
+			2022/10/5 12:00 AM UTC
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 245
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 250
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 12:00 AM UTC
+			2022/10/5 12:00 AM UTC
 		</td>
 		<td>
-			6
+			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/542699835/small/year.png" height="20"> 22
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/542699835/small/year.png" height="20"> 208
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 12:00 AM UTC
+			2022/10/5 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/440376790/small/year.png" height="20"> 22
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/440376790/small/year.png" height="20"> 30
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 12:00 AM UTC
+			2022/10/5 12:00 AM UTC
 		</td>
 		<td>
-			9
+			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/468209432/small/year.png" height="20"> 21
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/468209432/small/year.png" height="20"> 22
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 2:03 AM UTC
+			2022/10/5 2:02 AM UTC
 		</td>
 		<td>
 			2
@@ -106,18 +106,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/4 2:03 AM UTC
+			2022/10/5 12:00 AM UTC
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/537502752/small/year.png" height="20"> 82
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/537502752/small/year.png" height="20"> 96
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/6 6:31 PM UTC</i></small>
+<small><i>Last updated on 2022/10/7 2:09 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
