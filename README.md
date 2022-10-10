@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 324
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 326
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/542699835/small/year.png" height="20"> 229
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/542699835/small/year.png" height="20"> 233
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 12:00 AM UTC
 		</td>
 		<td>
-			12
+			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/440376790/small/year.png" height="20"> 46
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/440376790/small/year.png" height="20"> 48
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 1:51 AM UTC
 		</td>
 		<td>
 			11
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 2:09 AM UTC
+			2022/10/8 1:51 AM UTC
 		</td>
 		<td>
 			2
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 1:51 AM UTC
 		</td>
 		<td>
 			11
@@ -117,7 +117,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/9 6:27 PM UTC</i></small>
+<small><i>Last updated on 2022/10/10 2:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
