@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter)
 
-### :octocat: [Xray-heroku](https://github.com/Kingsmanvn-Official/Xray-heroku)
-![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/468209432/large/year.png)
+### :octocat: [ReVanced-Magisk](https://github.com/Kingsmanvn-Official/ReVanced-Magisk)
+![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/582467649/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/12/27 1:16 AM UTC</i></small>
+<small><i>Last updated on 2022/12/27 1:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/468209432/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/468209432/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/582467649/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/582467649/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/468209432/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/468209432/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/582467649/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/582467649/week.md)
 ```
 ### Header
-# Xray-heroku [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/468209432/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/468209432/year.md)
+# ReVanced-Magisk [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/582467649/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/582467649/year.md)
 ```readme
-# Xray-heroku [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/468209432/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/468209432/year.md)
+# ReVanced-Magisk [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/582467649/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/582467649/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
