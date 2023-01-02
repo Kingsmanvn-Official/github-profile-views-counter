@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 12:00 AM UTC
+			2022/12/31 12:00 AM UTC
 		</td>
 		<td>
-			299
+			306
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 1199
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/539448332/small/year.png" height="20"> 1217
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 1:17 AM UTC
+			2022/12/31 1:15 AM UTC
 		</td>
 		<td>
 			4
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 1:18 AM UTC
+			2022/12/31 1:16 AM UTC
 		</td>
 		<td>
 			41
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 1:18 AM UTC
+			2022/12/31 1:16 AM UTC
 		</td>
 		<td>
 			42
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 1:18 AM UTC
+			2022/12/31 12:00 AM UTC
 		</td>
 		<td>
-			34
+			35
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/468209432/small/year.png" height="20"> 57
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/468209432/small/year.png" height="20"> 58
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 1:18 AM UTC
+			2022/12/31 1:16 AM UTC
 		</td>
 		<td>
 			3
@@ -122,18 +122,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/30 12:00 AM UTC
+			2022/12/31 12:00 AM UTC
 		</td>
 		<td>
-			29
+			35
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/582695462/small/year.png" height="20"> 65
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/582695462/small/year.png" height="20"> 83
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/1 6:18 PM UTC</i></small>
+<small><i>Last updated on 2023/1/2 1:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
