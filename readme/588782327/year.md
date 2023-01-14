@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter)
 
-### :octocat: [ReVanced-tool](https://github.com/Kingsmanvn-Official/ReVanced-tool)
-![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/539448332/large/year.png)
+### :octocat: [ReVanced-Magisk](https://github.com/Kingsmanvn-Official/ReVanced-Magisk)
+![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/588782327/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>89</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>296</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>49</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>115</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>91</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>162</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/14 6:18 AM UTC</i></small>
+<small><i>Last updated on 2023/1/14 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/539448332/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/539448332/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/588782327/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/588782327/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/539448332/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/539448332/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/588782327/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/588782327/week.md)
 ```
 ### Header
-# ReVanced-tool [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/539448332/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/539448332/year.md)
+# ReVanced-Magisk [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/588782327/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/588782327/year.md)
 ```readme
-# ReVanced-tool [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/539448332/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/539448332/year.md)
+# ReVanced-Magisk [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/588782327/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/588782327/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

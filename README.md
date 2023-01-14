@@ -117,23 +117,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Kingsmanvn-Official/github-profile-views-counter/tree/master/readme/582695462/year.md">
+			<a href="https://github.com/Kingsmanvn-Official/github-profile-views-counter/tree/master/readme/588782327/year.md">
 				ReVanced-Magisk
 			</a>
 		</td>
 		<td>
-			2023/1/12 12:00 AM UTC
+			2023/1/11 6:19 AM UTC
 		</td>
 		<td>
-			55
+			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/582695462/small/year.png" height="20"> 113
+			<img alt="Response time graph" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/raw/master/graph/588782327/small/year.png" height="20"> 0
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/14 1:16 AM UTC</i></small>
+<small><i>Last updated on 2023/1/14 6:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
