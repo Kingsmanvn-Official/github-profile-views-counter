@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter)
 
-### :octocat: [VPS-Windows](https://github.com/Kingsmanvn-Official/VPS-Windows)
-![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/542699835/large/year.png)
+### :octocat: [CercubePlus](https://github.com/Kingsmanvn-Official/CercubePlus)
+![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/499981930/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>45</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>26</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>203</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/1/25 2:05 AM UTC</i></small>
+<small><i>Last updated on 2023/1/25 2:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/542699835/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/542699835/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/499981930/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/499981930/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/542699835/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/542699835/week.md)
+[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/499981930/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/499981930/week.md)
 ```
 ### Header
-# VPS-Windows [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/542699835/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/542699835/year.md)
+# CercubePlus [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/499981930/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/499981930/year.md)
 ```readme
-# VPS-Windows [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/542699835/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/542699835/year.md)
+# CercubePlus [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/499981930/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/499981930/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
