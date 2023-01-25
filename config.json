@@ -3,12 +3,16 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "Revanced-tool",
+    "ReVanced-tool",
     "ReVanced-Extended",
+    "Quantumult-X",
     "VPS-Windows",
     "Kingsman",
     "Xray-heroku",
     "Kingsmanvn-Official",
-    "Revanced-magisk"
+    "ReVanced-Magisk",
+    "bromite-filters",
+    "Surge4Advanced",
+    "CercubePlus"
   ]
 }
