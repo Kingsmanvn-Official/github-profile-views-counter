@@ -1,7 +1,7 @@
-## [🔙 github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter)
+## [🔙 github-profile-views-counter](https://github.com/kingsmanvn1112/github-profile-views-counter)
 
-### :octocat: [Kingsman](https://github.com/Kingsmanvn-Official/Kingsman)
-![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/440376790/large/year.png)
+### :octocat: [Kingsman](https://github.com/kingsmanvn1112/Kingsman)
+![Image of github-profile-views-counter](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/graph/440376790/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/8/12 6:16 AM UTC</i></small>
+<small><i>Last updated on 2023/8/12 12:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/440376790/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/440376790/week.md)
+[![Image of github-profile-views-counter](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/svg/440376790/badge.svg)](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/readme/440376790/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/svg/440376790/badge.svg)](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/440376790/week.md)
+[![Image of github-profile-views-counter](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/svg/440376790/badge.svg)](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/readme/440376790/week.md)
 ```
 ### Header
-# Kingsman [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/440376790/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/440376790/year.md)
+# Kingsman [<img alt="Image of github-profile-views-counter" src="https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/graph/440376790/small/year.png" height="20">](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/readme/440376790/year.md)
 ```readme
-# Kingsman [<img alt="Image of github-profile-views-counter" src="https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/graph/440376790/small/year.png" height="20">](https://github.com/Kingsmanvn-Official/github-profile-views-counter/blob/master/readme/440376790/year.md)
+# Kingsman [<img alt="Image of github-profile-views-counter" src="https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/graph/440376790/small/year.png" height="20">](https://github.com/kingsmanvn1112/github-profile-views-counter/blob/master/readme/440376790/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
